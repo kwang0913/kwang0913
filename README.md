@@ -17,6 +17,6 @@ Beyond research:
 - 🍳 I enjoy cooking—and can host dinner for twelve.
 - 🎓 I’ve served as a teaching assistant and lecturer for undergraduate probability and information security and cryptography courses. I received Rutgers ECE’s Fall 2024 TA of the Semester Award.
 
-[Website](https://kwang0913.github.io/) ·
-[Google Scholar](https://scholar.google.com/citations?user=Bl-ePysAAAAJ) ·
-[LinkedIn](https://www.linkedin.com/in/kwang0913/)
+- [Google Scholar](https://scholar.google.com/citations?user=Bl-ePysAAAAJ) ·
+- [LinkedIn](https://www.linkedin.com/in/kwang0913/)
+- [Website](https://kwang0913.github.io/) ·
