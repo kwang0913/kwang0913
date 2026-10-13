@@ -1,6 +1,6 @@
 ### Hi, I’m Kailong 👋
 
-I’m a Ph.D. candidate in Electrical and Computer Engineering at [Rutgers University](https://www.ece.rutgers.edu/), advised by [Prof. Athina Petropulu](http://eceweb1.rutgers.edu/~cspl/). My research spans wireless signal processing, generative modeling, and statistical inference. I develop algorithms that connect physical models with machine learning, and build the software and reproducible experiments to evaluate them.
+I’m a Ph.D. candidate in [Electrical and Computer Engineering at Rutgers University](https://www.ece.rutgers.edu/), advised by [Prof. Athina Petropulu](http://eceweb1.rutgers.edu/~cspl/). My research spans wireless signal processing, generative modeling, and statistical inference. I develop algorithms that connect physical models with machine learning, and build the software and reproducible experiments to evaluate them.
 
 My work includes:
 
