@@ -1,13 +1,22 @@
-### Hi there 👋
+### Hi, I’m Kailong 👋
 
-I am a Ph.D. student in the [Rutgers University ECE Department](https://www.ece.rutgers.edu/), supervised by [Prof. Athina Petropulu](http://eceweb1.rutgers.edu/~cspl/). Before joining the program, I earned my Bachelor's degree with a double major in [Mathematics](https://www.math.rutgers.edu/) and [Statistics](https://statistics.rutgers.edu/), as well as a [Master’s Degree in Data Science](https://msds-stat.rutgers.edu/msdatascience), both from Rutgers University.  
+I’m a Ph.D. candidate in Electrical and Computer Engineering at [Rutgers University](https://www.ece.rutgers.edu/), advised by [Prof. Athina Petropulu](http://eceweb1.rutgers.edu/~cspl/). My research spans wireless signal processing, generative modeling, and statistical inference. I develop algorithms that connect physical models with machine learning, and build the software and reproducible experiments to evaluate them.
 
-My current research focuses on building efficient and effective Multiple-Input Multiple-Output ([MIMO](https://en.wikipedia.org/wiki/MIMO)) Joint Communication and Sensing ([JC&S](https://www.comsoc.org/publications/best-readings/integrated-sensing-and-communication-isac)) wireless systems using Orthogonal Time Frequency Space waveform ([OTFS](https://en.wikipedia.org/wiki/Orthogonal_Time_Frequency_Space)). My work aligns with the [roadmap for next-generation (6G) wireless systems](https://research.samsung.com/blog/All-set-for-6G) and has been published in top-tier JC&S conferences (ICASSP, EUSIPCO, IEEE JC&S Symposium, etc.) and journals (IEEE JSAC, etc.). I have also collaborated on designing learning-based WiFi-sensing algorithms using off-the-shelf IoT devices; this work appeared in a top-tier systems conference (SenSys) and was later submitted to a journal (IEEE TMC). 
+My work includes:
 
-My research involves modeling the physical phenomena in wireless systems using Probability Theory and Digital Signal Processing (DSP) and enabling various applications through algorithm design using Convex Analysis, Bayesian Analysis, Deep Learning, and Machine Learning.  
+- **Generative modeling and control:** Conditional flow matching and reinforcement learning for programmable wireless surfaces, with physics-informed objectives for shaping wireless propagation. [Paper](https://arxiv.org/abs/2610.12773)
+- **Integrated sensing and communication:** MIMO-OTFS waveform design, virtual arrays, and compressed-sensing algorithms for target estimation and low-overhead channel estimation. [Paper](https://ieeexplore.ieee.org/document/11159304) [Code](https://github.com/kwang0913/Code_OTFS_RadarSensing_Modular)
+- **Wi-Fi sensing under domain shift:** Activity recognition using CNN–Transformers, domain-adversarial and contrastive learning, and conformal prediction. [Paper](https://dl.acm.org/doi/10.1145/3560905.3568529) [Code](https://github.com/kwang0913/WiFiSensing_DomainShift)
 
-Apart from my academic journey:
+I work primarily with **Python, PyTorch, and MATLAB**, building training pipelines, optimizing numerical code, and running reproducible HPC experiments. My research has appeared in IEEE JSAC, IEEE TMC, ACM SenSys, ICASSP, and EUSIPCO.
 
-- :tennis: I have been an active tennis player since 2019.
-- :fork_and_knife: I enjoy cooking and can capably host a party for twelve people.
-- :school_satchel: I have served as a TA and a lecturer for an undergraduate-level [Probability Course](https://github.com/kwang0913/MyLatex/tree/main/ECE226) and Cryptograph Course.
+My background includes an M.S. in Data Science and a B.A. with a double major in Mathematics and Statistics, both from Rutgers.
+
+Beyond research:
+- 🎾 I’ve been playing tennis since 2019.
+- 🍳 I enjoy cooking—and can host dinner for twelve.
+- 🎓 I’ve served as a teaching assistant and lecturer for undergraduate probability and information security and cryptography courses. I received Rutgers ECE’s Fall 2024 TA of the Semester Award.
+
+[Website](https://kwang0913.github.io/) ·
+[Google Scholar](https://scholar.google.com/citations?user=Bl-ePysAAAAJ) ·
+[LinkedIn](https://www.linkedin.com/in/kwang0913/)
